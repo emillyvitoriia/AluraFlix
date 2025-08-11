@@ -1,5 +1,5 @@
 body {
-    color: white;
-    background: rgb(35, 150, 35);
+    color: hsl(327, 90%, 61%);
+    background: hwb(336 80% 3%);
     margin: 0px;
 }
